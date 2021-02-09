@@ -1,5 +1,5 @@
 PKG_NAME := pyxDamerauLevenshtein
-URL = https://files.pythonhosted.org/packages/2b/a8/ac1b94cfde60e6090340151e7814340788ba74991b829b1a0b236175d8ac/pyxDamerauLevenshtein-1.6.2.tar.gz
+URL = https://files.pythonhosted.org/packages/aa/e8/53d212009d6d40fdd98ef41585e5442812323d145aa47f507996093567f2/pyxDamerauLevenshtein-1.7.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
